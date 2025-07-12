@@ -1,6 +1,7 @@
 # B2B Venue Dashboard
 
 Live heatmap and analytics dashboard for venue-based order activity.
+For example: Used Skippio Logo
 
 Built using **FastAPI** (backend) and **Streamlit** (frontend).  
 Tracks live orders by section, vendor, item popularity, and wait time.
