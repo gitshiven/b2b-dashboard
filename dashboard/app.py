@@ -18,7 +18,8 @@ with col1:
     st.markdown("<h1 style='margin-bottom:0;color:#3DC7A4;'>Skippio Venue Heatmap</h1>", unsafe_allow_html=True)
     st.caption("Live order activity, performance, and venue analytics")
 
-API_URL = "http://127.0.0.1:8000/orders"  # update for deployment
+API_URL = "https://b2b-dashboard-e5zv.onrender.com/orders"
+  # update for deployment
 
 def load_data():
     try:
