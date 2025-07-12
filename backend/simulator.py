@@ -4,7 +4,7 @@ import time
 import random
 import requests
 
-API_URL = "http://127.0.0.1:8000/orders"
+API_URL =  "https://b2b-dashboard-1.onrender.com/orders"
 
 sections = ['A1', 'A2', 'A3', 'B1', 'B2', 'C1']
 vendors = ['GrillZone', 'DrinkHub', 'PizzaPals']
