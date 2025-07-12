@@ -9,7 +9,7 @@ Tracks live orders by section, vendor, item popularity, and wait time.
 
 ## 🔗 Live Links
 
-- **Frontend (Streamlit):** [b2b-dashboard-by-shiven.streamlit.app]((https://b2b-dashboard-by-shiven.streamlit.app))  
+- **Frontend (Streamlit):** [b2b-dashboard-by-shiven.streamlit.app](https://b2b-dashboard-by-shiven.streamlit.app)
 - **Backend API (Render):** [b2b-dashboard-1.onrender.com](https://b2b-dashboard-1.onrender.com)
 
 ---
